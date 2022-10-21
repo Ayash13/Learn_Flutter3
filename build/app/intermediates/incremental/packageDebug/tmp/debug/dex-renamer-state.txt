@@ -1,0 +1,4 @@
+#Fri Oct 21 01:56:00 WIB 2022
+base.0=/Users/ayash/StudioProjects/scoreboard/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
